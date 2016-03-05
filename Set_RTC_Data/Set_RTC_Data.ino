@@ -1,6 +1,4 @@
-#include <Wire.h>  // Arduino IDE 內建
-// LCD I2C Library，從這裡可以下載：
-
+#include <Wire.h>  
 #include "RTClib.h"
 RTC_DS1307 RTC;
 int mYear = 2016 ;
