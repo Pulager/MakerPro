@@ -1,7 +1,4 @@
-//#include "PMType.h"
 #include <WiFi.h>
-//#include <PubSubClient.h>
-//#include <WiFiUdp.h>
 uint8_t MacData[6];
 char ssid[] = "TSAO";      // your network SSID (name)
 char pass[] = "TSAO1234";     // your network password
